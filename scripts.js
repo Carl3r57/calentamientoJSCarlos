@@ -27,7 +27,7 @@ console.log(respuesta);
 console.log(cadena);
 
 //8
-
+let numero1=5, numero2=2;
 
 //9
 
