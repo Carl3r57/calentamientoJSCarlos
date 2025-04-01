@@ -3,9 +3,11 @@ let numero =-4;
 
 
 //2
+let cadena= "Hola mundo";
 
 
 //3
+let respuesta= true;
 
 
 //4
