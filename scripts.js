@@ -18,6 +18,7 @@ numero=54;
 
 
 //6
+//Uncaught ReferenceError: Cannot access 'variableCarlos' before initialization
 
 //7
 
