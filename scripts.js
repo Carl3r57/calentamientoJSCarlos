@@ -48,7 +48,7 @@ console.log(numero1 % numero2);
 
 
 //14
-
+let carlos = "Carlos";
 
 //15
 
