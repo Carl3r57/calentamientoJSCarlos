@@ -21,7 +21,10 @@ numero=54;
 //Uncaught ReferenceError: Cannot access 'variableCarlos' before initialization
 
 //7
-
+console.log(numero);
+console.log(pi);
+console.log(respuesta);
+console.log(cadena);
 
 //8
 
