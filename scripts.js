@@ -14,6 +14,7 @@ let respuesta= true;
 let pi=3.14;
 
 //5
+numero=54;
 
 
 //6
