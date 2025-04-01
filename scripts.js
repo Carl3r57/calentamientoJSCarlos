@@ -41,7 +41,7 @@ console.log(numero1 * numero2);
 
 
 //12
-
+console.log(numero1 / numero2);
 
 //13
 
