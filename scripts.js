@@ -51,5 +51,6 @@ console.log(numero1 % numero2);
 let carlos = "Carlos";
 
 //15
+console.log("Hola, " + carlos);
 
 
